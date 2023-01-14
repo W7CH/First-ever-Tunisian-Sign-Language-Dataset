@@ -9,7 +9,7 @@ Contributors: [Wassim Chakroun](https://www.linkedin.com/in/wassim-chakroun), [R
 
 ---
 
-![Tunisian Sign Language Mobile App](https://github.com/W7CH/First-ever-Tunisian-Sign-Language-Dataset/blob/main/interfaces.png)
+![Tunisian Sign Language Mobile App](https://github.com/W7CH/First-ever-Tunisian-Sign-Language-Dataset/blob/master/interfaces.png)
 
 ## Institution
 
