@@ -46,12 +46,11 @@ The order of the dataset is:
 ```
 @{Wassim2022,
     title     = {(First ever) Tunisian Sign Language Dataset},
-    author    = {Wassim Chakroun and
-               Rihab Jerbi},
+    author    = {Wassim Chakroun and Rihab Jerbi},
     booktitle = {Mobile Application for Tunisian Sign Language (TunSL) Recognition},
-    address = {Tunis, Tunisia},
-    month = {April},
-    year = {2022}
+    address   = {Tunis, Tunisia},
+    month     = {April},
+    year      = {2022}
 }
 ```
 
