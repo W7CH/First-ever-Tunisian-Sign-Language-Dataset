@@ -25,7 +25,7 @@ Image Processing, Image Classification, Sign Language, Tunisian Language, Recogn
 
 This is a dataset of hand gestures that represent tunisian sign language. It is the first ever dataset of TunSL, it was collected in collaboration with [Tunisian Association of Sign Language Interpreters (ATILS)](https://www.facebook.com/ATILS2018) as one of the tasks for the developement of a mobile app for the recognition of TunSL.
 
-The dataset consists of 4423 images of TunSL common words performed by 7 people for 57 standard Tunisian signs. The number of images per class differs from one class to another with each image having the size of 224 × 224 pixels. These images were taken in different environments using laptop cameras with different backgrounds, clothes, hand angles, brightness level, hand accessories...
+The dataset consists of 4423 images of TunSL common words performed by 7 people for 57 standard Tunisian signs. The number of images per class differs from one class to another with each image having the size of 224 × 224 pixels. These images were taken in different environments using laptop cameras with different backgrounds, clothes, hand angles, brightness level, hand accessories... \
 The folders and images have been named in Tunisian dialect.
 
 
@@ -44,14 +44,14 @@ The order of the dataset is:
 
 ## Reference
 ```
-@inproceedings{Wassim2021,
+@{Wassim2022,
     title     = {(First ever) Tunisian Sign Language Dataset},
     author    = {Wassim Chakroun and
                Rihab Jerbi},
     booktitle = {Mobile Application for Tunisian Sign Language (TunSL) Recognition},
     address = {Tunis, Tunisia},
     month = {April},
-    year = {2021}
+    year = {2022}
 }
 ```
 
