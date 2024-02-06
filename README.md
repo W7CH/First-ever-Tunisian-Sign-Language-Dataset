@@ -31,7 +31,7 @@ The folders and images have been named in Tunisian dialect.
 
 ## Order
 
-The order of the dataset is:
+The order of the dataset is as follows:
 
 | Category        | Signs  | Images |
 | ---             | ----   | ----   |
